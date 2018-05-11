@@ -1,5 +1,5 @@
 # maildel
-script for deleting mail from different layouts.
+bash script for finding mail or another text files with different character encoding.
 
 Find files in current folder and show them in bash.
 
